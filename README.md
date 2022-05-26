@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Tolba</h1>
 <h3 align="center">A Data science from Egypt</h3>
 
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently learning **Neural Networks and Deep Learning*
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/mahmoudftolba](https://www.kaggle.com/mahmoudftolba)
 
