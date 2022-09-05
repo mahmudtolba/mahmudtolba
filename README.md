@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Tolba</h1>
 <h3 align="center">A Data science from Egypt</h3>
 
-- 🌱 I’m currently learning **Computer vision and NLP**
+- 🌱 I’m currently learning **Computer vision and NLP and Speech Recognition**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/mahmoudftolba](https://www.kaggle.com/mahmoudftolba)
 
